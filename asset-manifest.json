@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digitalartpunk/static/css/main.11745cee.css",
+    "main.js": "/digitalartpunk/static/js/main.6b419738.js",
+    "static/media/picCreate_2.svg": "/digitalartpunk/static/media/picCreate_2.1cf4feb76e043d85681475bfb7de12e6.svg",
+    "static/media/picCreate_1.svg": "/digitalartpunk/static/media/picCreate_1.f0a17e4a2514709c0657adac57186486.svg",
+    "static/media/pic_1.png": "/digitalartpunk/static/media/pic_1.e231ebd7362b1c3ff1ff.png",
+    "static/media/Inter-Bold.ttf": "/digitalartpunk/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-Regular.ttf": "/digitalartpunk/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/picArt_3.png": "/digitalartpunk/static/media/picArt_3.e54df18a5b939eb93218.png",
+    "static/media/picArt_1.png": "/digitalartpunk/static/media/picArt_1.4d8b2253acbdcb32e125.png",
+    "static/media/picArt_2.png": "/digitalartpunk/static/media/picArt_2.ba09ef895d52508f56c2.png",
+    "static/media/canela_bold.otf": "/digitalartpunk/static/media/canela_bold.5bb3c048757dddf5b534.otf",
+    "static/media/canela_roman.otf": "/digitalartpunk/static/media/canela_roman.06ae09ed7b9d41e98ee9.otf",
+    "index.html": "/digitalartpunk/index.html",
+    "main.11745cee.css.map": "/digitalartpunk/static/css/main.11745cee.css.map",
+    "main.6b419738.js.map": "/digitalartpunk/static/js/main.6b419738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11745cee.css",
+    "static/js/main.6b419738.js"
+  ]
+}
