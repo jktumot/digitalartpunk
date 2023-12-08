@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/digitalartpunk/static/css/main.850a26d2.css",
+    "main.css": "/digitalartpunk/static/css/main.000604c1.css",
     "main.js": "/digitalartpunk/static/js/main.5d10c67d.js",
     "static/media/picCreate_2.svg": "/digitalartpunk/static/media/picCreate_2.1cf4feb76e043d85681475bfb7de12e6.svg",
     "static/media/picCreate_1.svg": "/digitalartpunk/static/media/picCreate_1.f0a17e4a2514709c0657adac57186486.svg",
@@ -13,11 +13,11 @@
     "static/media/canela_bold.otf": "/digitalartpunk/static/media/canela_bold.5bb3c048757dddf5b534.otf",
     "static/media/canela_roman.otf": "/digitalartpunk/static/media/canela_roman.06ae09ed7b9d41e98ee9.otf",
     "index.html": "/digitalartpunk/index.html",
-    "main.850a26d2.css.map": "/digitalartpunk/static/css/main.850a26d2.css.map",
+    "main.000604c1.css.map": "/digitalartpunk/static/css/main.000604c1.css.map",
     "main.5d10c67d.js.map": "/digitalartpunk/static/js/main.5d10c67d.js.map"
   },
   "entrypoints": [
-    "static/css/main.850a26d2.css",
+    "static/css/main.000604c1.css",
     "static/js/main.5d10c67d.js"
   ]
 }
